@@ -28,7 +28,7 @@ requirements:
 
 test:
   requires:
-    - pythopn {{ python_min }}
+    - python {{ python_min }}
   imports:
     - lib3to6
 
